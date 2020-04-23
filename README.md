@@ -1,2 +1,2 @@
-# my_template
+# myTemplate
 Templates for Rmarkdown in RStudio
