@@ -1,0 +1,24 @@
+---
+title: "bez_tytulu"
+author: "BP"
+date: "format(Sys.Date(), format = "%d.%m.%Y")"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    theme: united
+---
+
+# 1. Wstęp
+
+```{r libraries, echo = FALSE}
+library(tidyverse)
+```
+
+```{r data}
+
+```
+
+
