@@ -1,7 +1,7 @@
 ---
-title: "bez_tytulu"
+title: "Bez Tytułu"
 author: "BP"
-date: "format(Sys.Date(), format = "%d.%m.%Y")"
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
 output:
   html_document:
     toc: true
