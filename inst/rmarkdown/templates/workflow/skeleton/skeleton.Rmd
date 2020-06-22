@@ -8,12 +8,12 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: false
-    theme: united
+    theme: flatly
 ---
 
 # 1. Wstęp
 
-```{r libraries, echo = FALSE}
+```{r libraries, echo = FALSE, message = FALSE}
 library(tidyverse)
 ```
 
